@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Tool Suite",
+  "description": "A modern web application featuring utility tools: YouTube Thumbnail Downloader, Image Compressor, PDF Merger interface, and an Age Calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
